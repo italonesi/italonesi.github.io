@@ -4,6 +4,6 @@ cd /home/ism/app
 #
 while true
 do
-	./updateiSM.sh
+	sudo /home/ism/app/updateiSM.sh
 	sleep 10
 done
